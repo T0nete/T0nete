@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **toni.barrantes.montilla64@gmail.com**
 
+- 💻 Currently Working in: <a href="https://github.com/T0nete/ecommerce_app"> Project </a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/antonio-barrantes-montilla-812398211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/antonio-barrantes-montilla-812398211/" height="30" width="40" /></a>
