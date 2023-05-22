@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **toni.barrantes.montilla64@gmail.com**
 
-- 💻 Currently Working in an <a href="https://github.com/T0nete/ecommerce_app">e-commerce</a>
+- 💻 Currently Working on this <a href="https://github.com/T0nete/ecommerce_app">e-commerce</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
