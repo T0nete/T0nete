@@ -8,7 +8,8 @@
 - Projects:
   - 📱 Full-stack mobile app for <a href="https://github.com/T0nete/RestaurantManagement">restaurant management</a> (Kotlin, Node JS, MongoDB)
   - 👔 Done the API of this <a href="https://github.com/Liamner/PES_4me4u">react-native app</a> (Node JS, MongoDB)
-  - 💻 Currently Working on this <a href="https://github.com/T0nete/ecommerce_app">e-commerce</a> (React, TypeScript, Node JS, MongoDB)
+  - 🎵 <a href="">Music Podcast App</a> (React, Redux)
+  - 💻 Currently Working on this <a href="https://github.com/T0nete/ecommerce_app">e-commerce</a> (React, TypeScript, Node JS, Redux, MongoDB)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
