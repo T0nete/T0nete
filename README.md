@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **React, NodeJS, TypeScript**
 
-- 📫 How to reach me **toni.barrantes.montilla64@gmail.com**
-
 - Projects:
   - 📱 Full-stack mobile app for <a href="https://github.com/T0nete/RestaurantManagement">restaurant management</a> (Kotlin, Node JS, MongoDB)
   - 👔 Done the API of this <a href="https://github.com/Liamner/PES_4me4u">react-native app</a> (Node JS, MongoDB)
