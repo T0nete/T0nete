@@ -7,7 +7,7 @@
   - 📱 Full-stack mobile app for <a href="https://github.com/T0nete/RestaurantManagement">restaurant management</a> (Kotlin, Node JS, MongoDB)
   - 👔 Done the API of this <a href="https://github.com/Liamner/PES_4me4u">react-native app</a> (Node JS, MongoDB)
   - 🎵 <a href="">Music Podcast App</a> (React, Redux)
-  - 💬 Currently working on a <a href="https://github.com/T0nete/pdf-searcher">PDF chatbot</a> 
+  - 💬 Currently working on a <a href="https://github.com/T0nete/pdf-searcher">PDF chatbot</a> hosted in <a href="https://pdf-searcher-ai.vercel.app/">PDFSearcher</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
